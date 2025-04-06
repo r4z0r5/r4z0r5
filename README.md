@@ -1,5 +1,7 @@
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=300&size=16&duration=2000&pause=1000&color=747474&background=000000&width=435&lines=+I+dont+focus+on+a+programming+language.;+I+focus+on+the+task%2C+making+effort+to+select+the+most+suitable+tools+to+complete+it+effectively.+;The+code+I+write+hardly+ever+ends+up+on+GH.+It's+either+shit+or+NDA." alt="Typing SVG" />
+</p>
 
-<img src="[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=300&size=16&duration=2000&pause=1000&color=747474&background=000000&width=435&lines=+I+dont+focus+on+a+programming+language.;+I+focus+on+the+task%2C+making+effort+to+select+the+most+suitable+tools+to+complete+it+effectively.+;The+code+I+write+hardly+ever+ends+up+on+GH.+It's+either+shit+or+NDA.+)](https://git.io/typing-svg)"/>
 
 ---
 
